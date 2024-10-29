@@ -1,0 +1,15 @@
+/home/sh/sh/sys_git/eww/target/release/deps/libtarget_lexicon-593a03eb0393e840.rmeta: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/data_model.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/host.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/parse_error.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/targets.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/triple.rs /home/sh/sh/sys_git/eww/target/release/build/target-lexicon-405139d15dcde96d/out/host.rs
+
+/home/sh/sh/sys_git/eww/target/release/deps/libtarget_lexicon-593a03eb0393e840.rlib: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/data_model.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/host.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/parse_error.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/targets.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/triple.rs /home/sh/sh/sys_git/eww/target/release/build/target-lexicon-405139d15dcde96d/out/host.rs
+
+/home/sh/sh/sys_git/eww/target/release/deps/target_lexicon-593a03eb0393e840.d: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/data_model.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/host.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/parse_error.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/targets.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/triple.rs /home/sh/sh/sys_git/eww/target/release/build/target-lexicon-405139d15dcde96d/out/host.rs
+
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/lib.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/data_model.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/host.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/parse_error.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/targets.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.11/src/triple.rs:
+/home/sh/sh/sys_git/eww/target/release/build/target-lexicon-405139d15dcde96d/out/host.rs:
+
+# env-dep:OUT_DIR=/home/sh/sh/sys_git/eww/target/release/build/target-lexicon-405139d15dcde96d/out

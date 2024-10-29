@@ -1,0 +1,13 @@
+/home/sh/sh/sys_git/eww/target/release/deps/libjaq_syn-af5c1b14bb696c4c.rmeta: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/def.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/filter.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/ops.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/path.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/string.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/test.rs
+
+/home/sh/sh/sys_git/eww/target/release/deps/libjaq_syn-af5c1b14bb696c4c.rlib: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/def.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/filter.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/ops.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/path.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/string.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/test.rs
+
+/home/sh/sh/sys_git/eww/target/release/deps/jaq_syn-af5c1b14bb696c4c.d: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/def.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/filter.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/ops.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/path.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/string.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/test.rs
+
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/lib.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/def.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/filter.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/ops.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/path.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/string.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/jaq-syn-1.1.0/src/test.rs:

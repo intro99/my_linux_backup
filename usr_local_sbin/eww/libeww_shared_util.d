@@ -1,0 +1,1 @@
+/home/sh/sh/sys_git/eww/target/release/libeww_shared_util.rlib: /home/sh/sh/sys_git/eww/crates/eww_shared_util/src/lib.rs /home/sh/sh/sys_git/eww/crates/eww_shared_util/src/span.rs /home/sh/sh/sys_git/eww/crates/eww_shared_util/src/wrappers.rs

@@ -1,0 +1,12 @@
+/home/sh/sh/sys_git/eww/target/release/deps/libasync_trait-b12e90f04cec6805.so: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/args.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/bound.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/expand.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/lifetime.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/parse.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/receiver.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/verbatim.rs
+
+/home/sh/sh/sys_git/eww/target/release/deps/async_trait-b12e90f04cec6805.d: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/args.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/bound.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/expand.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/lifetime.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/parse.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/receiver.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/verbatim.rs
+
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/lib.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/args.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/bound.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/expand.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/lifetime.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/parse.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/receiver.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/verbatim.rs:

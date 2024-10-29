@@ -1,0 +1,12 @@
+/home/sh/sh/sys_git/eww/target/release/deps/libterm-56d618af085e057f.rmeta: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/mod.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/searcher.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/parser/compiled.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/parser/names.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/parm.rs
+
+/home/sh/sh/sys_git/eww/target/release/deps/libterm-56d618af085e057f.rlib: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/mod.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/searcher.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/parser/compiled.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/parser/names.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/parm.rs
+
+/home/sh/sh/sys_git/eww/target/release/deps/term-56d618af085e057f.d: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/mod.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/searcher.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/parser/compiled.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/parser/names.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/parm.rs
+
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/lib.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/mod.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/searcher.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/parser/compiled.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/parser/names.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/term-0.7.0/src/terminfo/parm.rs:

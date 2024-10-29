@@ -1,0 +1,14 @@
+[Unit]
+Description=Changes the Bluetooth MAC address for dual boot Systems
+After=bluetooth.target
+After=bluetooth.service
+PartOf=bluetooth.service
+Requires=bluetooth.service
+After=multi-user.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/sbin/blu_mac_change.sh
+
+[Install]
+WantedBy=multi-user.target

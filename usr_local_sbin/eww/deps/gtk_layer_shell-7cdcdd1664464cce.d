@@ -1,0 +1,11 @@
+/home/sh/sh/sys_git/eww/target/release/deps/libgtk_layer_shell-7cdcdd1664464cce.rmeta: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/auto/mod.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/auto/enums.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/auto/functions.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/manual.rs
+
+/home/sh/sh/sys_git/eww/target/release/deps/libgtk_layer_shell-7cdcdd1664464cce.rlib: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/auto/mod.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/auto/enums.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/auto/functions.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/manual.rs
+
+/home/sh/sh/sys_git/eww/target/release/deps/gtk_layer_shell-7cdcdd1664464cce.d: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/auto/mod.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/auto/enums.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/auto/functions.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/manual.rs
+
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/lib.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/auto/mod.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/auto/enums.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/auto/functions.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk-layer-shell-0.6.1/src/manual.rs:

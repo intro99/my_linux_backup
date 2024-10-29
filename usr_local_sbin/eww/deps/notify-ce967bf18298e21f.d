@@ -1,0 +1,13 @@
+/home/sh/sh/sys_git/eww/target/release/deps/libnotify-ce967bf18298e21f.rmeta: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/inotify.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/event.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/null.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/poll.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/config.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/error.rs
+
+/home/sh/sh/sys_git/eww/target/release/deps/libnotify-ce967bf18298e21f.rlib: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/inotify.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/event.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/null.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/poll.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/config.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/error.rs
+
+/home/sh/sh/sys_git/eww/target/release/deps/notify-ce967bf18298e21f.d: /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/lib.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/inotify.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/event.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/null.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/poll.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/config.rs /home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/error.rs
+
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/lib.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/inotify.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/event.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/null.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/poll.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/config.rs:
+/home/sh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/error.rs:
